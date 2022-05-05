@@ -1,0 +1,6 @@
+.blog-article img{
+    width: 100%;
+    border-radius: 30px;
+    max-height: 400px;
+    object-fit: cover;
+}

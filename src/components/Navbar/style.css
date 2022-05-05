@@ -1,0 +1,15 @@
+header .menu{
+    display: flex;
+    justify-content: center;
+}
+
+header li{
+    list-style: none;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+header li a{
+     text-decoration: none;
+     padding: 0 25px;
+}
